@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="tomcat" type="docker-compose" uuid="53ed68bf-5f78-4121-807f-5f492e82b5c9">
+        <config>
+          <option name="targetPlatform">
+            <TargetPlatform />
+          </option>
+          <option name="configurationFiles">
+            <list>
+              <option value="C:\Users\Дэнич\IdeaProjects\HelpServiceT1\docker-compose.yml" />
+            </list>
+          </option>
+          <option name="serviceName" value="tomcat" />
+        </config>
+        <ContributedStateBase type="MavenRuntime">
+          <config />
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
